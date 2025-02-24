@@ -1,10 +1,17 @@
-# Awesome Micro-Expression Recognition
+# 超棒棒的 Micro-Expression Recognition
 
 A Github repository and collection of documents, papers, source code, and talks for Micro-Expression Recognition.
 
 **Keywords:** Micro-expression Recognition, Micro-expression Detection, Micro-expression analysis
 
 > **CATALOGUE**
+
+blibli search：CSIG_云上微表情
+
+link: https://space.bilibili.com/668807963/upload/video
+
+他们会定期开这个研究系列的讲座
+
 
 ## 1  Survey <span id='survey'></span>
 
