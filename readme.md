@@ -289,14 +289,16 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[SMIC]** A spontaneous micro facial expression database: inducement, collection and baseline (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553717)
 
-  
+### 2011
+
+* **[RSFM]** Recognising spontaneous facial micro-expressions (ICCV 11) [[paper]](https://ieeexplore.ieee.org/abstract/document/6126401)
 
 ### 仓库参考自
 https://github.com/Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition
 
 感谢他们出色的工作
 
-* **[RSFM]** Recognising spontaneous facial micro-expressions (ICCV 11) [[paper]](https://ieeexplore.ieee.org/abstract/document/6126401)
+
 
   
 
